@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176032913266",
+    "firebase_url": "https://dotra-289222.firebaseio.com",
+    "project_id": "dotra-289222",
+    "storage_bucket": "dotra-289222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176032913266:android:07255716c01a482d242feb",
+        "android_client_info": {
+          "package_name": "com.dotra.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176032913266-8608ejcn0ga4tvfitj5q44gun8r1mkee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dotra.app",
+            "certificate_hash": "1abb5890c9d4e1d03d60187c55dc1b643f6a4edc"
+          }
+        },
+        {
+          "client_id": "176032913266-lsfpi0ogm6ph8o24o1vh0j7uud8cefkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIXtycKmgTirhoc1lfWM_d_WOboNQiP3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176032913266-lsfpi0ogm6ph8o24o1vh0j7uud8cefkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
